@@ -1,0 +1,3 @@
+[submodule "STM32CubeU5"]
+	path = STM32CubeU5
+	url = https://github.com/STMicroelectronics/STM32CubeU5
